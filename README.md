@@ -13,4 +13,4 @@ Features, designs, and functionality are subject to change as we continue to ref
 
 ## 🎨 UI/UX Design
 You can view the current storyboard and wireframes in Figma:  
-👉 [Figma Storyboard Link](https://www.figma.com/your-link-here)
+👉 [Figma Storyboard Link](https://www.figma.com/design/kasguZzwaljepqll8IpR5C/BeeHive?node-id=0-1&t=KwLddrO2dF7HUpBg-1)
